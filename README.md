@@ -45,12 +45,6 @@ Omit links that do not exist. Never link a private repository here.
 ## 💸 Pre-revenue behavior
 **Entrepreneurial experiments · CEO of localhost.**
 
-Business ideas, tiny products, and attempts to turn “someone should pay for this” into someone actually paying for this.
-
-Currently bootstrapped by my salary and the unreasonable confidence that this one is different.
-
-*Pre-revenue. Post-domain-purchase. The business model is in another tab.*
-
 ### 🐼 [RateMySoft](https://github.com/jc80800/RateMySoft)
 
 A place to discover and review software, because apparently choosing a tool now requires its own tool.
