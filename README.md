@@ -23,7 +23,7 @@ Unfortunately, there’s no Evolution stone for this. Just XP and headaches.
 ## 🕹️ Side quests
 **Games & experiments · No business case. Incredible commitment.**
 
-Game-related tools, experiments, and eventually a game of my own. This is what happens when “just one more run” turns into “I could build something for this.”
+Game-related tools, experiments, and eventually a game of my own.
 
 ### 🃏 [STS2 Scout](https://github.com/jc80800/sts2-scout)
 
