@@ -72,4 +72,3 @@ case study only when one exists. -->
 <a id="behind-the-builds"></a>
 ## ☕ Behind the builds
 
-Educational notes, walkthroughs, and the tools behind the projects.
