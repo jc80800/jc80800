@@ -1,31 +1,31 @@
 <p align="center">
-  <img src="assets/workshop.svg" width="900" alt="Jason’s workshop — playful ideas, thoughtful engineering. An illustrated terminal, a little duck, and a growing plant." />
+  <img src="assets/workshop.svg" width="900" alt="Jason’s side quests — local service, occasional delays. A subway-inspired sign, a terminal, and a duck with somewhere to be." />
 </p>
 
 <p align="center">
-  <a href="#play">🕹️ Play</a> &nbsp; · &nbsp;
-  <a href="#learn">🔎 Learn</a> &nbsp; · &nbsp;
-  <a href="#build">🛠️ Build</a> &nbsp; · &nbsp;
+  <a href="#play">🕹️ Side quests</a> &nbsp; · &nbsp;
+  <a href="#learn">🔎 Rabbit holes</a> &nbsp; · &nbsp;
+  <a href="#build">🛠️ Allegedly useful</a> &nbsp; · &nbsp;
   <a href="#behind-the-builds">☕ Behind the builds</a>
 </p>
 
-# Hey, I’m Jason.
+# Yo, I’m Jason.
 
-I build things that are **fun to use and interesting to take apart**.
+**AI-assisted because I’m lazy. Overengineered because I have standards.**
 
-I’m a backend infrastructure engineer working on AI infrastructure, evaluations, and developer tooling. This is my personal workshop for games, useful tools, and experiments that explain how software works.
+Backend infrastructure engineer by day. Opening another repo instead of finishing the last one by night. I work on AI infrastructure, evaluations, and developer tooling. Here, I make games, go down technical rabbit holes, and occasionally build something people actually need.
 
-**Playful ideas. Thoughtful engineering. Occasionally, a duck.**
+Think corner bodega, but the shelves are software. Some essentials. Some questionable snacks. A duck who may or may not work here.
 
 ---
 
 <a id="play"></a>
-## 🕹️ Play
-**For the joy of making it.**
+## 🕹️ Side quests
+**Games & experiments · No business case. Incredible commitment.**
 
-Games, odd little experiments, and things that make you say “wait, you built that?”
+Games, tiny worlds, and ideas that absolutely did not need a backend. I gave them one anyway.
 
-*The arcade shelf is being arranged. Finished experiments will land here.*
+*Currently running on the weekend schedule. Public drops when they’re playable.*
 
 <!-- Add a public project here when ready:
 ### [Project name](PUBLIC_REPOSITORY_OR_DEMO_URL)
@@ -36,24 +36,24 @@ Omit links that do not exist. Never link a private repository here.
 -->
 
 <a id="learn"></a>
-## 🔎 Learn
-**Open the hood. Bring your curiosity.**
+## 🔎 Rabbit holes
+**Explanations & experiments · “Quick question” was three hours ago.**
 
-Interactive explanations, small implementations, and notes on the decisions, mistakes, and discoveries behind a build.
+Things I took apart to understand, broke to understand better, and wrote down so you can skip a few of the mistakes. Runnable examples, tradeoffs, and the occasional diagram that got out of hand.
 
-*Field notes are on the way. Runnable examples first, big claims later.*
+*Notes are being untangled. The tabs are winning.*
 
 <!-- Add a published explanation or educational project here.
 Lead with the question it answers, then link the runnable example and explanation.
 -->
 
 <a id="build"></a>
-## 🛠️ Build
-**Small conveniences. Serious foundations.**
+## 🛠️ Allegedly useful
+**Tools & practical software · Built out of mild inconvenience.**
 
-Tools for real workflows, developer utilities, and software built to earn a place in someone’s day.
+Developer tools, workflow fixes, and the occasional serious business idea. Usually starts with “why is this annoying?” and ends with a README.
 
-*Useful things are taking shape. I’ll share them when they’re ready to try.*
+*Stocking the shelves. No “join the waitlist” for a button that doesn’t exist.*
 
 <!-- Add a public tool here. State the problem it solves, current limitations,
 and how to try it. Keep commercial/private work private; link an approved public
@@ -64,14 +64,16 @@ case study only when one exists. -->
 <a id="behind-the-builds"></a>
 ## ☕ Behind the builds
 
-My interests meet somewhere between **backend systems, AI agents, and game mechanics**. I like making complicated behavior easier to see—and building the little tool I wish already existed.
+I’m into **backend systems, AI agents, and game mechanics**. Ideally all three, which is how a small idea becomes a distributed systems problem.
 
-Around here, I aim for:
+AI helps write the code. I still have to understand it, review it, and answer for whatever it does. “The model said it was fine” is not an incident report.
 
-- **A quick way in.** A demo or an example before a wall of setup.
-- **An honest look inside.** Decisions, tradeoffs, and what still breaks.
-- **Something worth keeping.** A useful tool, a new idea, or a good time.
+The house rules:
 
-Some projects are still on the workbench. This page will grow as I release them.
+- **Show me the thing.** A demo or runnable example before the lore.
+- **Show your work.** Tradeoffs, failures, and what I’d do differently.
+- **Label the chaos.** An experiment is an experiment. A maintained tool gets maintained.
 
-<p align="center"><sub>Built with curiosity. Inspected by a very small duck.</sub></p>
+Most things are still behind the counter. I’ll put them on the shelf when they’re ready.
+
+<p align="center"><sub>Local service. Occasional delays. Please stand clear of the closing tabs.</sub></p>
