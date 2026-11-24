@@ -51,21 +51,24 @@ Currently bootstrapped by my salary and the unreasonable confidence that this on
 
 *Pre-revenue. Post-domain-purchase. The business model is in another tab.*
 
-<!-- Add a public entrepreneurial experiment here.
-Explain who it helps, what problem it solves, and its honest current stage.
-Link only public demos, repositories, or case studies. -->
+### 🐼 [RateMySoft](https://github.com/jc80800/RateMySoft)
+
+A place to discover and review software, because apparently choosing a tool now requires its own tool.
+
+**Status:** Experimental · **Built with:** React / Go
+
+[Code & overview](https://github.com/jc80800/RateMySoft#readme)
+
+### 📂 Loan Pipes
+
+A document workspace for loan officers and processors: collect files, track what’s missing, and review uploads. An attempt to retire “just following up on those documents” as a full-time job.
+
+**Status:** Private prototype · **Built with:** Next.js / TypeScript / PostgreSQL
+
+
 
 <a id="build"></a>
 ## 🛠️ Allegedly useful
-**Tools & practical software · Built out of mild inconvenience.**
-
-Developer tools, workflow fixes, and the occasional serious business idea. Usually starts with “why is this annoying?” and ends with a README.
-
-*Stocking the shelves. No “join the waitlist” for a button that doesn’t exist.*
-
-<!-- Add a public tool here. State the problem it solves, current limitations,
-and how to try it. Keep commercial/private work private; link an approved public
-case study only when one exists. -->
 
 ---
 
