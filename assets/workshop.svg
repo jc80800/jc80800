@@ -8,7 +8,7 @@
 <text x="34" y="116" font-family="Georgia,serif" font-size="43" font-weight="bold" fill="#202a32">Jason’s side quests.</text>
 <text x="36" y="153" font-family="Arial,sans-serif" font-size="19" fill="#48545d">Next stop: probably another repo.</text>
 <path d="M36 178 H438" stroke="#c7cabb" stroke-width="1.5"/>
-<text x="36" y="210" font-family="monospace" font-size="12" fill="#303b44">P / SIDE QUESTS</text><text x="185" y="210" font-family="monospace" font-size="12" fill="#303b44">L / RABBIT HOLES</text><text x="345" y="210" font-family="monospace" font-size="12" fill="#303b44">B / USEFUL?</text>
+<text x="36" y="210" font-family="monospace" font-size="12" fill="#303b44">P / SIDE QUESTS</text><text x="185" y="210" font-family="monospace" font-size="12" fill="#303b44">E / PRE-REVENUE</text><text x="345" y="210" font-family="monospace" font-size="12" fill="#303b44">B / USEFUL?</text>
 <g stroke="#303b44" stroke-width="3" stroke-linejoin="round">
 <path d="M560 236 H853" fill="none"/>
 <rect x="579" y="58" width="211" height="145" rx="12" fill="#f4d36c"/>
