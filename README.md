@@ -9,9 +9,11 @@
   <a href="#behind-the-builds">☕ Behind the builds</a>
 </p>
 
-# Welcome to my Psyduck Training Lab.
+# Welcome to my [Psyduck](https://bulbapedia.bulbagarden.net/wiki/Psyduck_%28Pok%C3%A9mon%29) Training Lab.
 
 **Only AI Generated Products allowed**
+
+Unfortunately, there’s no Evolution stone for this. Just XP and headaches.
 
 
 
