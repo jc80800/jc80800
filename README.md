@@ -9,13 +9,11 @@
   <a href="#behind-the-builds">☕ Behind the builds</a>
 </p>
 
-# Yo, I’m Jason.
+# Welcome to my Psyduck Training Lab.
 
-**AI-assisted because I’m lazy. Overengineered because I have standards.**
+**Only AI Generated Products allowed**
 
-Backend infrastructure engineer by day. Opening another repo instead of finishing the last one by night. I work on AI infrastructure, evaluations, and developer tooling. Here, I make games, go down technical rabbit holes, and occasionally build something people actually need.
 
-Think corner bodega, but the shelves are software. Some essentials. Some questionable snacks. A duck who may or may not work here.
 
 ---
 
