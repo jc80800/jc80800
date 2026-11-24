@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#play">🕹️ Side quests</a> &nbsp; · &nbsp;
-  <a href="#learn">🔎 Rabbit holes</a> &nbsp; · &nbsp;
+  <a href="#ventures">💸 Pre-revenue behavior</a> &nbsp; · &nbsp;
   <a href="#build">🛠️ Allegedly useful</a> &nbsp; · &nbsp;
   <a href="#behind-the-builds">☕ Behind the builds</a>
 </p>
@@ -41,17 +41,19 @@ One sentence about what someone can do with it.
 Omit links that do not exist. Never link a private repository here.
 -->
 
-<a id="learn"></a>
-## 🔎 Rabbit holes
-**Explanations & experiments · “Quick question” was three hours ago.**
+<a id="ventures"></a>
+## 💸 Pre-revenue behavior
+**Entrepreneurial experiments · CEO of localhost.**
 
-Things I took apart to understand, broke to understand better, and wrote down so you can skip a few of the mistakes. Runnable examples, tradeoffs, and the occasional diagram that got out of hand.
+Business ideas, tiny products, and attempts to turn “someone should pay for this” into someone actually paying for this.
 
-*Notes are being untangled. The tabs are winning.*
+Currently bootstrapped by my salary and the unreasonable confidence that this one is different.
 
-<!-- Add a published explanation or educational project here.
-Lead with the question it answers, then link the runnable example and explanation.
--->
+*Pre-revenue. Post-domain-purchase. The business model is in another tab.*
+
+<!-- Add a public entrepreneurial experiment here.
+Explain who it helps, what problem it solves, and its honest current stage.
+Link only public demos, repositories, or case studies. -->
 
 <a id="build"></a>
 ## 🛠️ Allegedly useful
