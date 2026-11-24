@@ -72,16 +72,4 @@ case study only when one exists. -->
 <a id="behind-the-builds"></a>
 ## ☕ Behind the builds
 
-I’m a developer working on **backend systems and AI infrastructure**. I’d also like to build games, because apparently debugging at work wasn’t enough.
-
-AI helps write the code. I still have to understand it, review it, and answer for whatever it does. “The model said it was fine” is not an incident report.
-
-The house rules:
-
-- **Show me the thing.** A demo or runnable example before the lore.
-- **Show your work.** Tradeoffs, failures, and what I’d do differently.
-- **Label the chaos.** An experiment is an experiment. A maintained tool gets maintained.
-
-Most things are still behind the counter. I’ll put them on the shelf when they’re ready.
-
-<p align="center"><sub>Local service. Occasional delays. Please stand clear of the closing tabs.</sub></p>
+Educational notes, walkthroughs, and the tools behind the projects.
